@@ -122,7 +122,8 @@
     "testEnvironment": "node",
     "modulePathIgnorePatterns": [
       "<rootDir>/build"
-    ]
+    ],
+    "collectCoverage": true
   },
   "eslintConfig": {
     "parser": "babel-eslint",
